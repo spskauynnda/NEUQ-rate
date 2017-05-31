@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02cd2153-ed0b-44a3-a7d7-983540ee1a05" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/public/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/NEUQ-rate.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/public/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/public/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/src/App.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/src/App.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/src/App.test.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/src/components/user/login/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/src/components/user/login/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/src/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/src/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/src/logo.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rate/src/registerServiceWorker.js" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/app/src/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="logo.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/app/src/images/logo.svg">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/app/src/components/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#148#175#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reRate/app/src/components/list/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="67" column="14" lean-forward="true" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#128#157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/app/src/components/login/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+                <element signature="e#128#157#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/app/src/url/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/app/src/components/login/index.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="app.less" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/app/src/components/app.less">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.ejs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/dist/template.ejs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".babelrc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/.babelrc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="0">
+                <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                <folding>
+                  <marker date="1496176431000" expanded="true" signature="635:746" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="650:742" ph="{&quot;type&quot;: GET_DEMO_SUCC...}" />
+                  <marker date="1496176431000" expanded="true" signature="702:734" ph="{&quot;data&quot;: data...}" />
+                  <marker date="1496176431000" expanded="true" signature="778:836" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="793:832" ph="{&quot;type&quot;: GET_DEMO_ERR...}" />
+                  <marker date="1496176431000" expanded="true" signature="921:1251" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="949:1247" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="1019:1064" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="1079:1176" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="1188:1238" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="1331:1549" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="1365:1545" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="1381:1477" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="1487:1537" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="1610:1789" ph="..." />
+                  <marker date="1496176431000" expanded="true" signature="1830:2346" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="2142:2322" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="2192:2312" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="2435:2503" ph="..." />
+                  <marker date="1496176431000" expanded="true" signature="2542:2559" ph="{&quot;demo&quot;: demo...}" />
+                  <marker date="1496176431000" expanded="true" signature="2720:2754" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="2734:2743" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="2818:3167" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="2847:3163" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="2878:2985" ph="..." />
+                  <marker date="1496176431000" expanded="true" signature="2900:2984" ph="{&quot;data&quot;: action.payload...}" />
+                  <marker date="1496176431000" expanded="true" signature="3014:3109" ph="..." />
+                  <marker date="1496176431000" expanded="true" signature="3036:3108" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="3128:3155" ph="..." />
+                  <marker date="1496176431000" expanded="true" signature="3234:3438" ph="..." />
+                  <marker date="1496176431000" expanded="true" signature="3480:3712" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="3497:3708" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="3594:3687" ph="&lt;ReduxDemo/&gt;" />
+                  <marker date="1496176431000" expanded="true" signature="3750:3809" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="3765:3801" ph="{&quot;demo&quot;: state.demo...}" />
+                  <marker date="1496176431000" expanded="true" signature="3853:3971" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="3901:3966" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="4203:4435" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="4220:4431" ph="{...}" />
+                  <marker date="1496176431000" expanded="true" signature="4317:4410" ph="&lt;ReduxDemo/&gt;" />
+                </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="372">
+              <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/webpack.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="webpack.production.config.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/reRate/webpack.production.config.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1463">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>re</find>
+      <find>react-</find>
+      <find>react-crea</find>
+      <find>react-creae</find>
+      <find>react-create</find>
+      <find>fe</find>
+      <find>fetch</find>
+      <find>Logo</find>
+      <find>Regx</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/rate/src/index.js" />
+        <option value="$PROJECT_DIR$/rate/src/registerServiceWorker.js" />
+        <option value="$PROJECT_DIR$/rate/src/App.js" />
+        <option value="$PROJECT_DIR$/rate/package.json" />
+        <option value="$PROJECT_DIR$/rate/src/components/user/login/index.css" />
+        <option value="$PROJECT_DIR$/rate/src/components/user/login/index.js" />
+        <option value="$PROJECT_DIR$/reRate/react-redux-simple-boilerplate/app/src/components/app.js" />
+        <option value="$PROJECT_DIR$/reRate/react-redux-simple-boilerplate/app/src/index.js" />
+        <option value="$PROJECT_DIR$/reRate/.babelrc" />
+        <option value="$PROJECT_DIR$/reRate/package.json" />
+        <option value="$PROJECT_DIR$/reRate/app/src/components/login/index.less" />
+        <option value="$PROJECT_DIR$/reRate/app/index.html" />
+        <option value="$PROJECT_DIR$/reRate/app/src/url/index.js" />
+        <option value="$PROJECT_DIR$/reRate/app/src/components/login/index.js" />
+        <option value="$PROJECT_DIR$/reRate/app/src/components/list/index.js" />
+        <option value="$PROJECT_DIR$/reRate/app/src/components/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/node_modules" />
+    <handled-path value="$PROJECT_DIR$/rate/node_modules" />
+    <handled-path value="$PROJECT_DIR$/reRate/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEUQ-rate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEUQ-rate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="reRate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEUQ-rate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NEUQ-rate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.file-colors" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/reRate/app/src/components/list" />
+      <recent name="$PROJECT_DIR$/reRate/app/src/components/login" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02cd2153-ed0b-44a3-a7d7-983540ee1a05" name="Default" comment="" />
+      <created>1496167232459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1496167232459</updated>
+      <workItem from="1496167233917" duration="15368000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="15368000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32891566" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rate/src/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/src/logo.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/public/manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/node_modules/react-scripts/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/node_modules/react-scripts/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-922">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/node_modules/react-scripts/scripts/eject.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/node_modules/react-scripts/scripts/build.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1501">
+          <caret line="37" column="10" lean-forward="false" selection-start-line="37" selection-start-column="10" selection-end-line="37" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/build/service-worker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="67" lean-forward="true" selection-start-line="0" selection-start-column="67" selection-end-line="0" selection-end-column="67" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/build/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="68" lean-forward="true" selection-start-line="0" selection-start-column="68" selection-end-line="0" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/build/asset-manifest.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/build/static/css/main.9a0fe4f1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/build/static/css/main.9a0fe4f1.css.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="24" lean-forward="false" selection-start-line="0" selection-start-column="24" selection-end-line="0" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <caret line="11" column="28" lean-forward="false" selection-start-line="11" selection-start-column="28" selection-end-line="11" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/build/static/js/main.23e5d2a8.js.map">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-217">
+          <caret line="0" column="2374" lean-forward="false" selection-start-line="0" selection-start-column="2374" selection-end-line="0" selection-end-column="2374" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="sourcemapFileViewerProvider">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/src/registerServiceWorker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/src/App.test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#26#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="19">
+            <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+            <folding>
+              <marker date="1496167751000" expanded="true" signature="11834:11862" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="13174:13504" ph="{&quot;version&quot;: &quot;0.2.0&quot;...}" />
+              <marker date="1496167751000" expanded="true" signature="13218:13502" ph="[...]" />
+              <marker date="1496167751000" expanded="true" signature="13219:13501" ph="{&quot;name&quot;: &quot;Chrome&quot;...}" />
+              <marker date="1496167751000" expanded="true" signature="13449:13497" ph="{&quot;webpack:///src/*&quot;: &quot;${webRoot}/*&quot;...}" />
+              <marker date="1496167751000" expanded="true" signature="15530:15561" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="15543:15559" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="15667:15732" ph="..." />
+              <marker date="1496167751000" expanded="true" signature="15811:15866" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="15824:15864" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="17728:18025" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="17752:17902" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="17807:17839" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="17861:17896" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="17916:18023" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="17937:18012" ph="&lt;div/&gt;" />
+              <marker date="1496167751000" expanded="true" signature="18601:18621" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="18657:18714" ph="..." />
+              <marker date="1496167751000" expanded="true" signature="18796:18901" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="18809:18899" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="19980:20046" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="20079:20366" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="25710:25760" ph="..." />
+              <marker date="1496167751000" expanded="true" signature="25867:25954" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="26164:26204" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="29036:29301" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="29040:29234" ph="//..." />
+              <marker date="1496167751000" expanded="true" signature="31670:31754" ph="..." />
+              <marker date="1496167751000" expanded="true" signature="31755:31859" ph="//..." />
+              <marker date="1496167751000" expanded="true" signature="37042:37189" ph="..." />
+              <marker date="1496167751000" expanded="true" signature="37129:37182" ph="..." />
+              <marker date="1496167751000" expanded="true" signature="37639:37665" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="46545:46658" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="46567:46647" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="46581:46643" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="47012:47603" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="47034:47592" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="47094:47158" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="47218:47344" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="47287:47325" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="47420:47467" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="47542:47588" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="48711:48840" ph="..." />
+              <marker date="1496167751000" expanded="true" signature="48720:48840" ph="..." />
+              <marker date="1496167751000" expanded="true" signature="50475:50571" ph="&lt;html/&gt;" />
+              <marker date="1496167751000" expanded="true" signature="50494:50571" ph="&lt;head/&gt;" />
+              <marker date="1496167751000" expanded="true" signature="50505:50571" ph="&lt;script/&gt;" />
+              <marker date="1496167751000" expanded="true" signature="54452:54519" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="55383:55461" ph="..." />
+              <marker date="1496167751000" expanded="true" signature="55500:55581" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="56422:56500" ph="..." />
+              <marker date="1496167751000" expanded="true" signature="56539:56562" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="57473:57551" ph="..." />
+              <marker date="1496167751000" expanded="true" signature="57589:57779" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="59288:59338" ph="..." />
+              <marker date="1496167751000" expanded="true" signature="59811:59877" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="62586:62647" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="74276:74340" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="81921:82005" ph="{...}" />
+              <marker date="1496167751000" expanded="true" signature="94196:94244" ph="..." />
+              <marker date="1496167751000" expanded="true" signature="94386:94461" ph="..." />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/src/App.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="27" lean-forward="false" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/src/components/user/login/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rate/src/components/user/login/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="41" lean-forward="false" selection-start-line="10" selection-start-column="41" selection-end-line="10" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#40#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/dist/template.ejs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/webpack.production.config.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1463">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding>
+              <marker date="1496176431000" expanded="true" signature="635:746" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="650:742" ph="{&quot;type&quot;: GET_DEMO_SUCC...}" />
+              <marker date="1496176431000" expanded="true" signature="702:734" ph="{&quot;data&quot;: data...}" />
+              <marker date="1496176431000" expanded="true" signature="778:836" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="793:832" ph="{&quot;type&quot;: GET_DEMO_ERR...}" />
+              <marker date="1496176431000" expanded="true" signature="921:1251" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="949:1247" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="1019:1064" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="1079:1176" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="1188:1238" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="1331:1549" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="1365:1545" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="1381:1477" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="1487:1537" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="1610:1789" ph="..." />
+              <marker date="1496176431000" expanded="true" signature="1830:2346" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="2142:2322" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="2192:2312" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="2435:2503" ph="..." />
+              <marker date="1496176431000" expanded="true" signature="2542:2559" ph="{&quot;demo&quot;: demo...}" />
+              <marker date="1496176431000" expanded="true" signature="2720:2754" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="2734:2743" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="2818:3167" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="2847:3163" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="2878:2985" ph="..." />
+              <marker date="1496176431000" expanded="true" signature="2900:2984" ph="{&quot;data&quot;: action.payload...}" />
+              <marker date="1496176431000" expanded="true" signature="3014:3109" ph="..." />
+              <marker date="1496176431000" expanded="true" signature="3036:3108" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="3128:3155" ph="..." />
+              <marker date="1496176431000" expanded="true" signature="3234:3438" ph="..." />
+              <marker date="1496176431000" expanded="true" signature="3480:3712" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="3497:3708" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="3594:3687" ph="&lt;ReduxDemo/&gt;" />
+              <marker date="1496176431000" expanded="true" signature="3750:3809" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="3765:3801" ph="{&quot;demo&quot;: state.demo...}" />
+              <marker date="1496176431000" expanded="true" signature="3853:3971" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="3901:3966" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="4203:4435" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="4220:4431" ph="{...}" />
+              <marker date="1496176431000" expanded="true" signature="4317:4410" ph="&lt;ReduxDemo/&gt;" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/app/src/components/demo/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/.babelrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="9" lean-forward="true" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="51" column="4" lean-forward="true" selection-start-line="51" selection-start-column="4" selection-end-line="51" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/app/src/components/login/index.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="18" lean-forward="true" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/app/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/app/src/images/logo.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/app/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/app/src/url/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="7" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/app/src/components/app.less">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/app/src/components/login/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="43" column="23" lean-forward="false" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#128#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/app/src/components/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="19" column="58" lean-forward="false" selection-start-line="19" selection-start-column="58" selection-end-line="19" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#148#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reRate/app/src/components/list/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="67" column="14" lean-forward="true" selection-start-line="67" selection-start-column="14" selection-end-line="67" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+            <element signature="e#128#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
