@@ -1,5 +1,5 @@
-node_modules
-dist/build-yo/*
-npm-debug.log
-.idea/
+re_rate/node_modules
+re_rate/dist/build-yo/*
+re_rate/npm-debug.log
+re_rate/.idea/
 .DS_Store
